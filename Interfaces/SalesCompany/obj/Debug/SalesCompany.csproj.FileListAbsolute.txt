@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\bin\Debug\SalesCompany.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\obj\Debug\SalesCompany.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\bin\Debug\SalesCompany.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\bin\Debug\SalesCompany.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\obj\Debug\SalesCompany.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\SalesCompany\obj\Debug\SalesCompany.pdb
