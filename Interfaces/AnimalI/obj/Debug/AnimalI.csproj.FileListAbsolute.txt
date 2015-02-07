@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\bin\Debug\AnimalI.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\bin\Debug\AnimalI.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\bin\Debug\AnimalI.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\obj\Debug\AnimalI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\obj\Debug\AnimalI.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\HomeworkInterfaces\AnimalI\obj\Debug\AnimalI.pdb
